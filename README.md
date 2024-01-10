@@ -10,7 +10,7 @@
 
 <h2>Beta Testing</h2>
 <ul>
-  <li><a href="https://www.downloadhelper.net/firefox/betas"><img alt="Beta For Firefox" src="https://img.shields.io/amo/dw/video-downloadhelper?label=Beta For Firefox&style=flat-square"></a>
+  <li><a href="https://www.downloadhelper.net/firefox/betas"><img alt="Beta For Firefox" src="https://img.shields.io/badge/Beta_For_Firefox-red?logo=firefox&logoColor=white&style=flat-square"></a>
   <li><a href="https://chromewebstore.google.com/detail/video-downloadhelper-beta/pfoiagbblcbmognbkekfpodpidedkmcc"><img alt="Beta For Chrome" src="https://img.shields.io/chrome-web-store/users/pfoiagbblcbmognbkekfpodpidedkmcc?label=Beta For Chrome&style=flat-square"></a>
   <li><a href="https://microsoftedge.microsoft.com/addons/detail/video-downloadhelper-beta/fojefjolbhfidomcaelhceoldmmpcaga"><img alt="Beta For Microsoft Edge" src="https://img.shields.io/badge/Download_For_Edge-blue?style=flat-square&logo=microsoftedge&logoColor=white"></a>
 </ul>
