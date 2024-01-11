@@ -1,4 +1,4 @@
-# Download Helper
+# Video DownloadHelper
 
 [![Download For Firefox](https://img.shields.io/amo/dw/video-downloadhelper?label=Download%20For%20Firefox&labelColor=red&logo=Firefox&logoColor=white)](https://addons.mozilla.org/firefox/addon/video-downloadhelper) [![Download For Chrome](https://img.shields.io/chrome-web-store/users/lmjnegcaeklhafolokijcfjliaokphfk?logo=googlechrome&logoColor=white&labelColor=blue&label=Download%20For%20Chrome)](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) [![Download For Edge](https://img.shields.io/badge/Download_For_Edge-purple?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/video-downloadhelper/jmkaglaafmhbcpleggkmaliipiilhldn) [![Download CoApp](https://img.shields.io/badge/download-coapp-orange?logoColor=orange)](https://www.downloadhelper.net/install-coapp-v2)
 
