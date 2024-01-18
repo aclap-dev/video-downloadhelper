@@ -17,40 +17,40 @@ body:
     attributes:
       label: Addon version
       description: "[test](https://foobar.com)"
-  - type: dropdown
-    id: browser
-    attributes:
-      label: Which browser are you using?
-      options:
-        - Chrome
-        - Mozilla Firefox
-        - Microsoft Edge
-        - Other
-    validations:
-      required: true
-  - type: dropdown
-    id: os 
-    attributes:
-      label: What is your Operating System?
-      options:
-        - Windows
-        - MacOS
-        - Linux
-        - Other
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: |
-        ## Markdown header
-        And some more markdown
-  - type: input
-    id: url
-    attributes:
-      label: Video website address
-      description: If your issue is about a failed download, please provide the address of the website
-    validations:
-      required: false
+  # - type: dropdown
+  #   id: browser
+  #   attributes:
+  #     label: Which browser are you using?
+  #     options:
+  #       - Chrome
+  #       - Mozilla Firefox
+  #       - Microsoft Edge
+  #       - Other
+  #   validations:
+  #     required: true
+  # - type: dropdown
+  #   id: os 
+  #   attributes:
+  #     label: What is your Operating System?
+  #     options:
+  #       - Windows
+  #       - MacOS
+  #       - Linux
+  #       - Other
+  #   validations:
+  #     required: true
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       ## Markdown header
+  #       And some more markdown
+  # - type: input
+  #   id: url
+  #   attributes:
+  #     label: Video website address
+  #     description: If your issue is about a failed download, please provide the address of the website
+  #   validations:
+  #     required: false
   # - type: checkboxes
   #   attributes:
   #     label: Check that box!
