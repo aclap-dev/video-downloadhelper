@@ -1,21 +1,42 @@
-title: "[General] "
-labels: ["General Introduction"]
+title: ""
 body:
-  - type: markdown
-    attributes:
-      value: |
-        This is text that will show up in the template!
   - type: textarea
     id: improvements
     attributes:
-      label: Top 3 improvements
-      description: "What are the top 3 improvements we could make to this project?"
+      label: Your question
+      description: "Please be specific"
       value: |
-        1.
-        2.
-        3.
+        Please 
+        Please add the Addon version and the Companion App version
         ...
       render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Addon version
+      description: "[test](https://foobar.com)"
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Which browser are you using?
+      options:
+        - Chrome
+        - Mozilla Firefox
+        - Microsoft Edge
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: os 
+    attributes:
+      label: What is your Operating System?
+      options:
+        - Windows
+        - MacOS
+        - Linux
+        - Other
     validations:
       required: true
   - type: markdown
@@ -24,32 +45,21 @@ body:
         ## Markdown header
         And some more markdown
   - type: input
-    id: has-id
+    id: url
     attributes:
-      label: Suggestions
-      description: A description about suggestions to help you
+      label: Video website address
+      description: If your issue is about a failed download, please provide the address of the website
     validations:
-      required: true
-  - type: dropdown
-    id: download
-    attributes:
-      label: Which area of this project could be most improved?
-      options:
-        - Documentation
-        - Pull request review time
-        - Bug fix time
-        - Release cadence
-    validations:
-      required: true
-  - type: checkboxes
-    attributes:
-      label: Check that box!
-      options:
-        - label: This one!
-          required: true
-        - label: I won't stop you if you check this one, too
-  - type: markdown
-    attributes:
-      value: |
-        ### The thrilling conclusion
-        _to our template_
+      required: false
+  # - type: checkboxes
+  #   attributes:
+  #     label: Check that box!
+  #     options:
+  #       - label: This one!
+  #         required: true
+  #       - label: I won't stop you if you check this one, too
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       ### The thrilling conclusion
+  #       _to our template_
