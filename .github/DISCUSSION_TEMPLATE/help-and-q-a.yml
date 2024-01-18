@@ -2,7 +2,8 @@ title: "foo"
 body:
   - type: markdown
     attributes:
-      value:
+      value: |
+        This is text that will show up in the template!
     validations:
       required: true
   # - type: textarea
