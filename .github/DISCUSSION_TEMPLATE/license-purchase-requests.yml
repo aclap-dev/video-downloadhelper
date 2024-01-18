@@ -6,23 +6,12 @@ body:
       description: Do not paste your full license number!
     validations:
       required: true
-  # - type: checkboxes
-  #   id: checkboxes
-  #   attributes:
-  #     label: I confirm that I didn't not paste my full license number
-  #     description: You may select more than one.
-  #     options:
-  #       - label: Yes
-  #       - label: No
-  - type: checkboxes
-    id: checkboxes
+  - type: input
+    id: license
     attributes:
-      label: Which operating systems have you used?
-      description: You may select more than one.
+      label: The 10 first digit of your license numer or email address
+  - type: checkboxes
+    attributes:
       options:
-        - label: macOS
-        - label: Windows
-  # - type: input
-  #   id: license
-  #   attributes:
-  #     label: The 10 first digit of your license numer or email address
+        - label: I confirm that I didn't not paste my full license number
+          required: true
