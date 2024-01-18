@@ -1,65 +1,58 @@
-title: ""
+title: "test"
 body:
   - type: textarea
     id: improvements
     attributes:
       label: Your question
       description: "Please be specific"
-      value: |
-        Please 
-        Please add the Addon version and the Companion App version
-        ...
-      render: bash
-    validations:
-      required: true
-  - type: textarea
-    id: info
-    attributes:
-      label: Addon version
-      description: "[test](https://foobar.com)"
-  - type: dropdown
-    id: browser
-    attributes:
-      label: Which browser are you using?
-      options:
-        - Chrome
-        - Mozilla Firefox
-        - Microsoft Edge
-        - Other
-    validations:
-      required: true
-  - type: dropdown
-    id: os 
-    attributes:
-      label: What is your Operating System?
-      options:
-        - Windows
-        - MacOS
-        - Linux
-        - Other
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: |
-        ## Markdown header
-        And some more markdown
-  - type: input
-    id: url
-    attributes:
-      label: Video website address
-      description: If your issue is about a failed download, please provide the address of the website
-    validations:
-      required: false
-  # - type: checkboxes
+  # - type: textarea
+  #   id: info
   #   attributes:
-  #     label: Check that box!
+  #     label: Addon version
+  #     description: "[test](https://foobar.com)"
+  # - type: dropdown
+  #   id: browser
+  #   attributes:
+  #     label: Which browser are you using?
   #     options:
-  #       - label: This one!
-  #         required: true
-  #       - label: I won't stop you if you check this one, too
+  #       - Chrome
+  #       - Mozilla Firefox
+  #       - Microsoft Edge
+  #       - Other
+  #   validations:
+  #     required: true
+  # - type: dropdown
+  #   id: os 
+  #   attributes:
+  #     label: What is your Operating System?
+  #     options:
+  #       - Windows
+  #       - MacOS
+  #       - Linux
+  #       - Other
+  #   validations:
+  #     required: true
   # - type: markdown
   #   attributes:
   #     value: |
-  #       ### The thrilling conclusion
-  #       _to our template_
+  #       ## Markdown header
+  #       And some more markdown
+  # - type: input
+  #   id: url
+  #   attributes:
+  #     label: Video website address
+  #     description: If your issue is about a failed download, please provide the address of the website
+  #   validations:
+  #     required: false
+  # # - type: checkboxes
+  # #   attributes:
+  # #     label: Check that box!
+  # #     options:
+  # #       - label: This one!
+  # #         required: true
+  # #       - label: I won't stop you if you check this one, too
+  # # - type: markdown
+  # #   attributes:
+  # #     value: |
+  # #       ### The thrilling conclusion
+  # #       _to our template_
