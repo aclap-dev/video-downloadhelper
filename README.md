@@ -4,6 +4,5 @@
 
 [![Beta For Firefox](https://img.shields.io/badge/Beta_For_Firefox-red?logo=firefox&logoColor=white)](https://www.downloadhelper.net/firefox/betas) [![Beta For Chrome](https://img.shields.io/chrome-web-store/users/pfoiagbblcbmognbkekfpodpidedkmcc?label=Beta%20For%20Chrome&logo=googlechrome&logoColor=white&labelColor=blue)](https://chromewebstore.google.com/detail/video-downloadhelper-beta/pfoiagbblcbmognbkekfpodpidedkmcc) [![Beta For Edge](https://img.shields.io/badge/Beta_For_Edge-purple?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/video-downloadhelper-beta/fojefjolbhfidomcaelhceoldmmpcaga)
 
-[![Ask Questions](https://img.shields.io/github/discussions/aclap-dev/download-helper?label=Ask%20Questions)](https://github.com/aclap-dev/download-helper/discussions) [![Documentation Wiki](https://img.shields.io/badge/documentation-wiki-red?logoColor=orange)](https://github.com/aclap-dev/download-helper/wiki) [![Discord Live Chat](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white)](https://discord.gg/5unMGyBgSk)
-
+[![Ask Questions](https://img.shields.io/github/discussions/aclap-dev/download-helper?label=Ask%20Questions)](https://github.com/aclap-dev/download-helper/discussions) [![Documentation Wiki](https://img.shields.io/badge/documentation-wiki-red?logoColor=orange)](https://github.com/aclap-dev/download-helper/wiki)
 [![](assets/screenshot.png)](https://downloadhelper.net)
