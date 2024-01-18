@@ -4,7 +4,7 @@ body:
     attributes:
       label: Your question
       description: "Please be specific"
-      value: 
+      value:
     validations:
       required: true
   # - type: textarea
