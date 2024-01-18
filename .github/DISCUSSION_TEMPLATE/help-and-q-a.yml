@@ -7,11 +7,11 @@ body:
       description: "Please be specific"
     validations:
       required: true
-  - type: textarea
-    id: info
-    attributes:
-      label: Addon version
-      description: "[test](https://foobar.com)"
+  # - type: textarea
+  #   id: info
+  #   attributes:
+  #     label: Addon version
+  #     description: "[test](https://foobar.com)"
   # - type: dropdown
   #   id: browser
   #   attributes:
