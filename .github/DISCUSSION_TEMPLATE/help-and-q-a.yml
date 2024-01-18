@@ -1,4 +1,4 @@
-title: ""
+title: "foo"
 body:
   - type: textarea
     id: improvements
