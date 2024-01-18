@@ -26,7 +26,6 @@ body:
     id: question
     attributes:
       label: Your question
-      placeholder: "Please be specific"
     validations:
       required: true
   - type: textarea
@@ -34,7 +33,6 @@ body:
     attributes:
       label: Addon version & details
       description: "[Click here to see how to find the addon information](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F)"
-      placeholder: Please paste here the Addon information
   # - type: markdown
   #   attributes:
   #     value: |
