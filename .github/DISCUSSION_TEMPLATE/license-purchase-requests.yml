@@ -12,7 +12,7 @@ body:
       label: The 10 first digit of your license numer or email address
   - type: checkboxes
     attributes:
-      label: I confirm
+      label: I confirm that I didn't not paste my full license number
       options:
-        - label: I confirm that I didn't not paste my full license number
+        - label: I confirm
           required: true
