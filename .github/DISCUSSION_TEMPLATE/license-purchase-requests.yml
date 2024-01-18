@@ -20,9 +20,8 @@ body:
       label: Which operating systems have you used?
       description: You may select more than one.
       options:
-        - label: macOS
-        - label: Windows
-        - label: Linux
+        - label: Yes
+        - label: No
   # - type: input
   #   id: license
   #   attributes:
