@@ -13,7 +13,6 @@ body:
       description: You may select more than one.
       options:
         - label: Yes
-          required: true
         - label: No
   - type: checkboxes
     id: operating-systems
