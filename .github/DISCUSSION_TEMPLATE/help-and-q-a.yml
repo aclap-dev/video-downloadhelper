@@ -9,6 +9,7 @@ body:
     attributes:
       label: Addon version & details
       description: |
+        ![test](https://private-user-images.githubusercontent.com/368367/296200273-6c3116b4-52d1-44c6-8785-7fd24c4f537b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1NjYwNTYsIm5iZiI6MTcwNTU2NTc1NiwicGF0aCI6Ii8zNjgzNjcvMjk2MjAwMjczLTZjMzExNmI0LTUyZDEtNDRjNi04Nzg1LTdmZDI0YzRmNTM3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQwODE1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00M2ExNGIwMWIyNzkzNmViZDJkZGRlOWM1N2RkNmUxMTUyOTA3ZmY0MTkwZjNjNTNhYTQzZGIxY2M4MDdlNjhhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XVM78eTGdujHsTG12ZX3ChAwlpd7MfYx51UQ1a7suHY)
         <a href="https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F" target="_blank">Click here to see how to copy the addon info</a>.
         If you have a Companion App issue, please let us what Operation System you're using (Windows, Mac, Linux).
       placeholder: Please paste here the Addon information
