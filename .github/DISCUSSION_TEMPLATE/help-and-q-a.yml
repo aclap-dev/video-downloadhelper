@@ -2,8 +2,6 @@ title: "foo"
 body:
   - type: markdown
     attributes:
-      label: Your question
-      description: "Please be specific"
       value:
     validations:
       required: true
