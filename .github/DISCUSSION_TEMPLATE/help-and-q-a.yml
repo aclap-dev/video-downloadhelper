@@ -1,48 +1,52 @@
 title: "foo"
 body:
-  - type: markdown
+  - type: textarea
+    id: question
     attributes:
-      value: |
-        This is text that will show up in the template!
+      label: Your question
+      description: "Please be specific"
+    validations:
+      required: true
   - type: textarea
     id: info
     attributes:
-      label: Addon version
-      description: "[test](https://foobar.com)"
-  # - type: dropdown
-  #   id: browser
-  #   attributes:
-  #     label: Which browser are you using?
-  #     options:
-  #       - Chrome
-  #       - Mozilla Firefox
-  #       - Microsoft Edge
-  #       - Other
-  #   validations:
-  #     required: true
-  # - type: dropdown
-  #   id: os 
-  #   attributes:
-  #     label: What is your Operating System?
-  #     options:
-  #       - Windows
-  #       - MacOS
-  #       - Linux
-  #       - Other
-  #   validations:
-  #     required: true
-  # - type: markdown
-  #   attributes:
-  #     value: |
-  #       ## Markdown header
-  #       And some more markdown
-  # - type: input
-  #   id: url
-  #   attributes:
-  #     label: Video website address
-  #     description: If your issue is about a failed download, please provide the address of the website
-  #   validations:
-  #     required: false
+      label: Addon version & details
+      description: "[Click here to see how to find the addon info](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F)"
+      value: Please paste here the Addon information
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Which browser are you using?
+      options:
+        - Chrome
+        - Mozilla Firefox
+        - Microsoft Edge
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Video website address
+      description: If your issue is about a failed download, please provide the address of the website
+    validations:
+      required: false
+  - type: dropdown
+    id: os 
+    attributes:
+      label: What is your Operating System?
+      options:
+        - Windows
+        - MacOS
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Markdown header
+        And some more markdown
   # - type: checkboxes
   #   attributes:
   #     label: Check that box!
