@@ -1,5 +1,4 @@
 title: ""
-placeholder: "A1"
 body:
   - type: dropdown
     id: browser
