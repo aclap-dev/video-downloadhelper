@@ -1,15 +1,10 @@
 title: "foo"
 body:
-  - type: textarea
-    id: improvements
+  - type: markdown
+    id: question
     attributes:
       label: Your question
       description: "Please be specific"
-      value: |
-        Please 
-        Please add the Addon version and the Companion App version
-        ...
-      render: bash
     validations:
       required: true
   - type: textarea
