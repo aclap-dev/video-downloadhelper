@@ -15,7 +15,7 @@ body:
   #       - label: Yes
   #       - label: No
   - type: checkboxes
-    id: operating-systems
+    id: checkboxes
     attributes:
       label: Which operating systems have you used?
       description: You may select more than one.
