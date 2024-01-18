@@ -4,11 +4,11 @@ body:
     attributes:
       value: |
         This is text that will show up in the template!
-  # - type: textarea
-  #   id: info
-  #   attributes:
-  #     label: Addon version
-  #     description: "[test](https://foobar.com)"
+  - type: textarea
+    id: info
+    attributes:
+      label: Addon version
+      description: "[test](https://foobar.com)"
   # - type: dropdown
   #   id: browser
   #   attributes:
