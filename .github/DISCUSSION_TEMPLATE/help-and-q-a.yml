@@ -9,7 +9,6 @@ body:
     attributes:
       label: Addon version & details
       description: |
-        [Click here to see how to find the addon info](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F).
-
-        If you have a Companion App issue, please let us what Operation System you're using (Windows, Mac, Linux)
+        <a href="https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F" target="_blank">Click here to see how to copy the addon info</a>.
+        If you have a Companion App issue, please let us what Operation System you're using (Windows, Mac, Linux).
       placeholder: Please paste here the Addon information
