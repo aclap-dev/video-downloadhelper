@@ -6,14 +6,14 @@ body:
       description: Do not paste your full license number!
     validations:
       required: true
-  - type: checkboxes
-    id: checkboxes
-    attributes:
-      label: I confirm that I didn't not paste my full license number
-      description: You may select more than one.
-      options:
-        - label: Yes
-        - label: No
+  # - type: checkboxes
+  #   id: checkboxes
+  #   attributes:
+  #     label: I confirm that I didn't not paste my full license number
+  #     description: You may select more than one.
+  #     options:
+  #       - label: Yes
+  #       - label: No
   - type: checkboxes
     id: operating-systems
     attributes:
