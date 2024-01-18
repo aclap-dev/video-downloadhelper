@@ -1,5 +1,4 @@
 title: ""
-placeholder: "A1"
 body:
   - type: dropdown
     id: browser
@@ -27,16 +26,15 @@ body:
     id: question
     attributes:
       label: Your question
-      description: Please be specific
-      placeholder: Please be specific
+      description: "Please be specific"
     validations:
       required: true
   - type: textarea
     id: info
     attributes:
       label: Addon version & details
-      description: "[Click here to see how to find the addon information](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F)"
-      placeholder: Please paste here the Addon information
+      description: "[Click here to see how to find the addon info](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F)"
+      value: Please paste here the Addon information
   # - type: markdown
   #   attributes:
   #     value: |
