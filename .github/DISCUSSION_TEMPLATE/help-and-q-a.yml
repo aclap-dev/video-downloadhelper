@@ -4,8 +4,6 @@ body:
     attributes:
       value: |
         This is text that will show up in the template!
-    validations:
-      required: true
   # - type: textarea
   #   id: info
   #   attributes:
