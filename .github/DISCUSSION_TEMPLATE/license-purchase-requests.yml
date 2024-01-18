@@ -1,0 +1,18 @@
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What's your issue?
+      description: Do not paste your full license number!
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: The 10 first digit of your license numer or email address
+  - type: checkboxes
+    attributes:
+      label: I confirm that I didn't not paste my full license number
+      options:
+        - label: Yes
+          required: true
