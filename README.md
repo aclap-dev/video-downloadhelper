@@ -9,4 +9,4 @@
 
 [![Download CoApp](https://img.shields.io/badge/download-coapp-orange?style=for-the-badge&logoColor=orange)](https://github.com/aclap-dev/video-downloadhelper/wiki/CoApp-Installation) [![Become a beta tester](https://img.shields.io/badge/become_a_beta_tester-yellow?style=for-the-badge&logoColor=yellow)](https://github.com/aclap-dev/video-downloadhelper/wiki/Beta-versions/)
 
-[![](assets/screenshot.png)](https://downloadhelper.net)
+[![](assets/screenshot.jpg)](https://downloadhelper.net)
