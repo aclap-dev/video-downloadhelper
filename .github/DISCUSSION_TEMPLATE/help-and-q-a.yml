@@ -1,8 +1,8 @@
 body:
   - type: textarea
     attributes:
+      placeholder: Please be specific, and polite :)
       label: Your question
-      description: Please be specific
     validations:
       required: true
   - type: textarea
