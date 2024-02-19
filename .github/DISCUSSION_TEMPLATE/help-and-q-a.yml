@@ -6,10 +6,10 @@ body:
     validations:
       required: true
   - type: textarea
+    validations:
+      required: true
     attributes:
       label: Addon & CoApp version and details
-      validations:
-        required: true
       description: |
         [⚠️⚠️⚠️ Click here to see how to copy the addon information. If you do not copy/paste these information, it will be hard for us to help you ⚠️⚠️⚠️](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F).
         If you have a CoApp issue, please let us what OS you're using (Windows, Mac, Linux).
