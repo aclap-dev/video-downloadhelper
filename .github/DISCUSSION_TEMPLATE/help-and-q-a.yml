@@ -12,4 +12,4 @@ body:
       label: Addon & CoApp version and details
       description: |
         [⚠️⚠️⚠️ Click here to see how to copy the addon information. If you do not copy/paste these information, it will be hard for us to help you ⚠️⚠️⚠️](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F).
-      placeholder: ⚠️ PASTE THE INFORMATION AS EXPLAINED ABOVE ⚠️ **We won't help you otherwise!**
+      placeholder: ⚠️ PASTE THE INFORMATION AS EXPLAINED ABOVE ☢️ DO NOT SKIP THIS ☢️
