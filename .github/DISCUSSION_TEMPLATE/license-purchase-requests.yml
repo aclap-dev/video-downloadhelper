@@ -1,6 +1,6 @@
 body:
   - type: markdown
-     value: "If you have lost your license, you should be able to recover it here : [Recover license](https://www.downloadhelper.net/recover-license). If you have a license or purchase issue, please do not share private information on our forums. Send us an email at _licenses@downloadhelper.net_. For other problems, please ask your question here:"
+    value: "If you have lost your license, you should be able to recover it here : [Recover license](https://www.downloadhelper.net/recover-license). If you have a license or purchase issue, please do not share private information on our forums. Send us an email at _licenses@downloadhelper.net_. For other problems, please ask your question here:"
   - type: textarea
     id: question
     attributes:
