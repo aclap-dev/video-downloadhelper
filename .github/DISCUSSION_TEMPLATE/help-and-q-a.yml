@@ -9,7 +9,6 @@ body:
     validations:
       required: true
     attributes:
-      label: Addon & CoApp version and details
+      label: Addon version and details
       description: |
-        [⚠️⚠️⚠️ Click here to see how to copy the addon information. If you do not copy/paste these information, it will be hard for us to help you ⚠️⚠️⚠️](https://github.com/aclap-dev/video-downloadhelper/wiki/Where-can-I-find-my-versions%3F).
-      placeholder: ⚠️ PASTE THE INFORMATION AS EXPLAINED ABOVE ☢️ DO NOT SKIP THIS ☢️
+        ⚠️⚠️⚠️  What version of Video DownloadHelper are you using?
