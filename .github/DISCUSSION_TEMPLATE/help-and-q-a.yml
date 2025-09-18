@@ -9,6 +9,6 @@ body:
     validations:
       required: true
     attributes:
-      label: Addon version and details
+      label: Addon version
       description: |
         ⚠️⚠️⚠️  What version of Video DownloadHelper are you using?
